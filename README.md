@@ -1,0 +1,2 @@
+This repo demonstrates how to extract and run GPT J, find the new updated version here: [https://github.com/mystic-ai/pipeline/blob/main/examples/pipeline_cloud/premade/gpt-j/gpt-j:v1.0-fp16.py](https://github.com/mystic-ai/pipeline/blob/main/examples/pipeline_cloud/premade/gpt-j/gpt-j:v1.0-fp16.py).
+In that link is an example running GPT J that is also deployed as an API at [pipeline.ai](https://pipeline.ai)
